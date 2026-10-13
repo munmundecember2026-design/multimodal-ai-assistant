@@ -1,0 +1,10 @@
+myenv/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+.env
+generated/*
+!generated/.gitkeep
+.DS_Store
